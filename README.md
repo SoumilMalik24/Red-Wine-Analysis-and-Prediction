@@ -80,7 +80,7 @@ jupyter notebook red-wine-prediction.ipynb
 ---
 
 ## 👨‍💻 Author
-Created by an **AI/ML & MLOps enthusiast**, currently a **final-year student in India**, preparing for business school exams and developing practical ML projects.  
+Created by an **AI/ML & MLOps enthusiast**, currently a **final-year student in India**, preparing for higher education exams and developing practical ML projects.  
 
 ---
 
